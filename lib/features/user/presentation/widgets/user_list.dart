@@ -5,7 +5,7 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:userlist_app/app/app_theme.dart';
 import 'package:userlist_app/app/localization/localization.dart';
 import 'package:userlist_app/app/navigation/app_route.dart';
-import 'package:userlist_app/features/user/data/models/user_model.dart';
+import 'package:userlist_app/features/user/domain/entities/user.dart';
 import 'package:userlist_app/features/user/presentation/widgets/user_list_image.dart';
 
 class UserList extends ConsumerStatefulWidget {

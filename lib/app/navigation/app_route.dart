@@ -1,6 +1,6 @@
 import 'package:auto_route/auto_route.dart';
 import 'package:flutter/material.dart';
-import 'package:userlist_app/features/user/data/models/user_model.dart';
+import 'package:userlist_app/features/user/domain/entities/user.dart';
 import 'package:userlist_app/features/user/presentation/screens/user_info_screen.dart';
 import 'package:userlist_app/features/user/presentation/screens/user_list_screen.dart';
 

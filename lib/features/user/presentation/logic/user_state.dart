@@ -1,4 +1,4 @@
-import 'package:userlist_app/features/user/data/models/user_model.dart';
+import 'package:userlist_app/features/user/domain/entities/user.dart';
 
 sealed class UserPageState {}
 
